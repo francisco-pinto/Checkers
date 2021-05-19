@@ -1,0 +1,177 @@
+2.1 NOMENCLATURA DO TABULEIRO
+2.1.1 O jogo de damas é disputado entre dois adversários que movem peças (peões
+ou damas) num tabuleiro quadrado denominado “tabuleiro de damas”.
+2.1.2 O “tabuleiro de damas” é composto por uma rede de 8 (oito) colunas horizontais
+e 8 (oito) colunas verticais que formam 64 (sessenta e quatro) quadrados iguais,
+alternadamente claros (preferencialmente brancos ou castanhos claros) e escuros
+(preferencialmente pretos ou castanhos escuros).
+2.1.3 Os quadrados escuros - denominados «casas» - correspondem a uma
+numeração de 1 a 32, com início na primeira casa inferior direita, seguindo a contagem
+da direita para a esquerda e de baixo para cima, sempre do lado onde se encontram
+as brancas.(Diagrama 1)
+_____________________________________________________________________________________
+Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 2 de 8
+_____________________________________________________________________________________
+Federação Portuguesa de Damas
+DIAGRAMA 1
+(Lado das Brancas)
+2.1.4 A diagonal que liga as casas 1 e 32, denomina-se «rio». As diagonais que ligam
+as casas 4 e 25 e as casas 8 e 29 denominam-se «paralelas»; o quadrilátero definido
+pelas casas 2, 9, 31 e 24 denomina-se «circuito médio»; o quadrilátero definido pelas
+casas 3, 17, 30 e 16 denomina-se «circuito grande».
+2.1.5 O tabuleiro é colocado entre os jogadores de tal forma que o quadrado do canto
+inferior direito de cada jogador seja escuro. (em determinados jogos informáticos e sites,
+para se obter melhor visibilidade, o tabuleiro é girado 90 graus, jogando-se sobre os quadrados
+claros passando estes a valer como escuros).
+__________________________________________________________________________
+Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 3 de 8
+_____________________________________________________________________________
+Federação Portuguesa de Damas
+2.2 AS PEÇAS E SEU MOVIMENTO
+2.2.1 No início do jogo, um dos jogadores dispõe de 12 (doze) peões
+brancos, (ou castanhos claro) e o outro de 12 (doze) peões negros (ou
+castanhos escuro).
+DIAGRAMA 2
+
+
+
+2.2.2 A atribuição das peças brancas a um dos jogadores no primeiro jogo de uma
+partida ocorre por acordo, sorteio ou por emparceiramento automático, desenrolandose jogo até ao fim com lances alternados das duas cores.
+2.2.3 O jogador com as peças brancas inicia o jogo.
+2.2.5 Sempre que um peão atinge uma das quatro casas do extremo oposto do
+tabuleiro, o condutor da cor contrária colocará um dos peões já capturados sobre ele,
+coroando-o como dama.
+
+2.2.6 O peão que se transforma em dama, só será jogável após efectuado o lance da
+cor contrária.
+2.2.7 Se não houver ainda peão para coroar a dama, esta valerá, na mesma, como
+dama, até à respetiva coroação.
+_____________________________________________________________________________
+Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 4 de 8
+_____________________________________________________________________________
+Federação Portuguesa de Damas
+2.2.8 Quer os peões quer as damas têm dois tipos de movimento: sem captura e com captura:
+- Peão sem captura - os peões movem-se sobre o tabuleiro, sempre para a frente e
+numa das suas diagonais, ocupando uma das casas contíguas vagas, não tomando no
+seu percurso qualquer peça de cor contrária.
+- Peão com captura - sempre que um peão, ao iniciar o seu movimento tenha, numa casa
+contígua peça de cor contrária, existindo a seguir casa vaga que possa ocupar, saltará por
+cima da peça e tomará a referida peça; se, ao pousar nessa casa existir nova peça seguida de
+casa contígua que possa ocupar, continuará o seu trajeto, capturando as peças que se
+encontrem nessa situação.
+- Dama sem captura - a dama move-se em diagonal, percorrendo as casasvagas que quiser,
+para diante ou para trás, não tomando no seu percurso qualquer peça de cor contrária e não
+podendo mudar dessa diagonal.
+- Dama com captura - se a dama tiver, numa das suas diagonais, peça de cor contrária, ainda
+que em casa não contígua, seguida de uma ou mais casas vagas, saltará por cima da peça
+ocupando uma qualquer dessas casas vagas. Se no entanto a dama - após tomar pelo
+menos uma peça na sua diagonal - encontrar em qualquer diagonal perpendicular
+peças que possa tomar, terá que mudar para a diagonal onde possa capturar o maior
+número de peças possível.
+2.2.9 A dama não poderá saltar por cima de qualquer peça da sua cor ou de peças de cor
+contrária colocadas em casas juntas nem passar duas vezes sobre a mesma peça.
+Também não pode passar duas vezes sobre a mesma peça embora possa, Pode, no entanto,
+passar mais do que uma vez por cima de casas livres.
+2.2.10 Quando qualquer peão ou dama efectue lance em que tome mais do que uma
+peça, estas só podem ser retiras do tabuleiro após o lance estar concluído.
+_____________________________________________________________________________
+ Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 5 de 8
+_____________________________________________________________________________________
+
+ 
+Federação Portuguesa de Damas
+3. LEIS E REGRAS
+3.1 LEIS DA CAPTURA
+3.1.1 Na captura de peças existem três leis, independentemente de a
+peça que toma ser peão ou dama:
+a) Lei da Obrigatoriedade - A captura é obrigatória;
+b) Lei da Quantidade - Em hipóteses simultâneas de captura, é
+obrigatório tomar o maior número de peças possível;
+c) Lei da Qualidade - Em hipóteses simultâneas de captura de “um
+mesmo número de peças” é obrigatório tomar as peças com maior
+valor, sendo o valor da dama superior ao do peão.
+3.2 REGRAS DA LIMITAÇÃO DE LANCES
+3.2.1 Existem Três Regras em que - com o fim de não perpetuar o jogo
+escusadamente - se limita o número de lances na tentativa do ganho.
+Assim, o jogo considera-se empatado quando:
+a) Regra dos 20 lances – Sejam efetuados 20 (vinte) lances
+consecutivos, por ambos os jogadores, sem que qualquer peão
+tenha sido movido ou perdido qualquer peça. A contagem dos
+lances será efetuada por qualquer dos jogadores ou árbitro,
+iniciando-se contagem assim que surja posição passível de
+aplicação desta regra. Sempre que algum peão se desloque ou
+alguma peça seja capturada, a contagem reiniciar-se-á – para
+ambos os lados - no lance seguinte.
+b) Regra da Forçada – Possuindo um dos jogadores três dama e
+nenhum peão e o outro uma dama e nenhum peão, o jogo não
+seja ganho até 12 (doze) lances – incluindo o da captura –
+contados após a cor das três damas ocupar o rio.
+c) Regra da Repetição – Uma mesma posição – considerando as
+peças de ambas as cores - surge no tabuleiro, no mínimo,
+pela terceira vez consecutiva ou alternada.
+__________________________________________________________________
+Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 6 de 8
+_____________________________________________________________________________
+Federação Portuguesa de Damas
+4. OBJETIVO E RESULTADO DO JOGO
+4.1 O jogo de damas é disputado entre dois adversários que têm como objetivo ganhar
+o jogo, capturando ou prendendo todas as peças do adversário.
+4.2 A «vitória» ocorre quando:
+a) O jogador captura todas as peças do adversário;
+b) O adversário fica com as peças “prisioneiras” na vez de jogar
+não podendo efectuar lance;
+c) O adversário declara o abandono.
+d) Em competição oficial ou oficializada, for atribuída ao adversário
+derrota por “falta de comparência” “limite de tempo” ou “sanção
+disciplinar”
+4.3 O «empate» ocorre quando:
+a) Resulte uma posição em que nenhum dos jogadores tenha a
+possibilidade de capturar ou prender as peças do adversário.
+b) Determinado por qualquer das Regras da Limitação de Lances;
+c) Exista “acordo” entre os jogadores – desde que efectuado no
+desenrolar do jogo;
+d) Em competição, assim for punido disciplinarmente.
+4.4 «a derrota» ocorre quando:
+a) Em competição oficial ou oficializada, lhe for atribuída “falta de
+comparência”;
+
+b) Perca todas as suas pedras ou fique com elas “prisioneiras” na
+sua vez de jogar, não podendo efectuar lance;
+c) Em competição oficial ou oficializada, exceda limite de tempo;
+d) Em competição oficial ou oficializada, lhe for atribuída essa “sanção disciplinar”
+_____________________________________________________________________________
+Regras do Jogo de Damas Clássicas - Federação Portuguesa de Damas. Página 7 de 8
+_____________________________________________________________________________
+
+
+Federação Portuguesa de Damas
+
+5. IRREGULARIDADES E PENALIZAÇÕES
+5.1 LAPSOS E CONDUTA
+5.1.1 Se O jogador, na sua vez de efectuar lance, tocar numa ou mais
+peças é obrigado a jogar a primeira peça tocada que possa ser movida.
+No caso de nenhuma dessas peças poder ser movida, será então
+permitido efectuar nova jogada.
+5.1.2. Se o jogador, na sua vez de jogar, pretender ajeitar uma ou mais
+peças no tabuleiro, é obrigado a avisar o adversário dessa intenção
+através de expressões como, por exemplo, “componho”, “ajeito”, etc. sob
+pena de ser aplicado o ponto anterior.
+5.1.3 Se durante um jogo houver conhecimento de que foi efectuado
+lance ilegal, deverá ser restabelecida a posição imediatamente anterior à
+irregularidade. Se a referida posição não puder ser reconstituída, o jogo
+deverá continuar a partir da última posição identificável, anterior à
+irregularidade.
+5.1.4 É considerado irregular o acto de suster uma peça sobre o tabuleiro
+para calcular a “casa” para onde a jogará.
+a jogada , voltando atrás para a jogar para outra casa.
+5.1.5 É igualmente considerado irregular movimentar sistematicamente
+a peça para determinada “casa” e - embora não a largando – voltar atrás
+para a jogar para outra “casa”.
+5.1.6 É proibido distrair ou perturbar o adversário de qualquer forma. Isto
+inclui comentários extemporâneos, reclamações ou ofertas de empate
+despropositadas.
+6. CASOS OMISSOS
+6.1 Os casos omissos serão tratados, conforme o seu âmbito, pelos
+Árbitros, Directores de Prova, Associações Distritais e Federação
+Portuguesa de Damas.
+_____________________________________
